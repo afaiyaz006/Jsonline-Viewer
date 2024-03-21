@@ -3,7 +3,7 @@ name: Build Executable
 on:
   push:
     branches:
-      - main  # Change this to your main branch name
+      - main  #
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8  # Change this to your Python version if necessary
+        python-version: 3.12.0  # Change this to your Python version if necessary
       
     - name: Install dependencies
       run: |
