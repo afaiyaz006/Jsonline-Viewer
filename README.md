@@ -1,5 +1,5 @@
 # Jsonline-Viewer
-Jsonline viewer GUI with tkinter.I developed this to load and view huge json line files easily line by line.
+<a href="https://jsonlines.org">Jsonline</a> viewer GUI with tkinter.I developed this to load and view huge json line files easily line by line.
 
 
 # Usage
